@@ -1,6 +1,6 @@
 cask "claude-usage-systray" do
-  version "1.0.3"
-  sha256 "0a8d899987d673e318c6025ee2e4307c6b7857f89d3e1578ad406b3c957eb3d6"
+  version "1.0.4"
+  sha256 "651d0d0e042cc328737ba3ad3d4e5ea3c723420daa56eb9ea5e11d6ce4d2af20"
 
   url "https://github.com/adntgv/claude-usage-systray/releases/download/v#{version}/ClaudeUsageSystray.zip"
   name "Claude Usage Systray"
